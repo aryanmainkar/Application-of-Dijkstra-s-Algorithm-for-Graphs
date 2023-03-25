@@ -1,4 +1,4 @@
-#Dijkstra's Algorithm for Graphs
+# Dijkstra's Algorithm Application
 
 # MIT License
 
